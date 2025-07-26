@@ -1,2 +1,3 @@
-# hacker_rank
-Todos os desafios do Hacker rank e suas resoluções
+# HackerRank Solutions - Python
+
+Este repositório contém minhas soluções para os desafios do HackerRank Python > https://www.hackerrank.com/domains/python.
